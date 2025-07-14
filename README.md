@@ -74,4 +74,4 @@ Manages billing and payment status.
 * Key Features: Appointment tracking, billing system report, patient medical history
 * Built to showcase familiarity with hospital patient management system
 
-### Special thanks to Sagar, mssqlexpert on YouTube.
+#### Special thanks to Sagar, mssqlexpert on YouTube.
