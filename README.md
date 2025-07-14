@@ -12,6 +12,9 @@ This system is designed to:
 - Store detailed patient and doctor information
 - Demonstrate SQL joins, queries, and data troubleshooting
 
+<img width="959" height="504" alt="EER_Diagram" src="https://github.com/user-attachments/assets/0b97ac54-d538-45d2-bc17-c2e74bba3fbd" />
+#### Image above showing the EER Diagram
+
 ---
 
 ## 🧱 Database Schema
